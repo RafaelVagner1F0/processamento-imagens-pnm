@@ -1,8 +1,9 @@
-// -- Trabalho pratico 2_INF110 --
+// -- Trabalho pratico 2 --
 // -- Rafael Vagner Pinto da Fonseca Souza --
 // -- Programa para ler, modificar e gravar uma imagem no formato PNM --
-// (modificado em 16/05/2026)
-
+//
+// Autor Base: Andre Gustavo dos Santos			(criado em 16/06/14)
+// Rafael Vagner Pinto da Fonseca Souza    (modificado em 16/05/2026)
 #include <iostream>
 #include <fstream>
 #include <cstring>
